@@ -1,0 +1,3 @@
+Hello World
+This text was originally written with Unix Line Endings
+Goodbye
